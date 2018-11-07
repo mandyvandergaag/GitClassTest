@@ -1,2 +1,2 @@
-#Twice the square root of four
-print(2+2)
+#nine
+print(3+3+3)
